@@ -5,10 +5,10 @@
 
 使用了两种特征提取算法（Tiny images feature和Bag of sift）及两种分类算法（k-Nearest Neighbor和SVM）进行场景识别。
 
-a)	Tiny + Nearest Neighbor
-b)	Tiny + SVM
-c)	Bags of SIFT + Nearest Neighbor
-d)	Bags of SIFT+SVM
+- a)	Tiny + Nearest Neighbor
+- b)	Tiny + SVM
+- c)	Bags of SIFT + Nearest Neighbor
+- d)	Bags of SIFT+SVM
 
 ##### 2 代码结构与功能
 
